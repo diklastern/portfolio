@@ -1,5 +1,4 @@
 import { motion } from "framer-motion";
-import { Target } from "lucide-react";
 
 export default function WhatDrivesMe() {
   return (
@@ -11,7 +10,6 @@ export default function WhatDrivesMe() {
           transition={{ duration: 0.8 }}
           className="inline-flex items-center gap-3 justify-center mb-4"
         >
-          <Target className="text-cyan-400 w-6 h-6" />
           <h2 className="text-3xl font-bold text-cyan-400">What Drives Me</h2>
         </motion.div>
 
