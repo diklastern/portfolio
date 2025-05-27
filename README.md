@@ -1,12 +1,52 @@
-# React + Vite
+# 🌐 Dikla Stern – Cybersecurity & System Administration Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Screenshot](./public/og-image.jpg) <!-- Optional preview image -->
 
-Currently, two official plugins are available:
+Welcome to my personal portfolio – a modern, animated, and accessible single-page application built with **React**, **Tailwind CSS**, and **Vite**. This site is a reflection of my experience in **cybersecurity**, **DevOps**, and **system administration**, as well as my passion for design and performance.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Live Website
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔗 [https://dikla-portfolio.netlify.app](https://dikla-portfolio.netlify.app)
+
+---
+
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React.js, Vite, Tailwind CSS, Framer Motion, Lucide Icons
+- **Animations**: `framer-motion`, `react-type-animation`, custom scroll effects
+- **Deployment**: GitHub + Netlify (CI/CD integration)
+- **Design**: Custom responsive layout with dark mode, accessibility, and SEO
+
+---
+
+## 📂 Sections
+
+| Section         | Description |
+|----------------|-------------|
+| `Hero`         | Intro, type animation & resume download |
+| `About`        | Skills, values, and personal touch |
+| `Education`    | Academic journey and certifications |
+| `Experience`   | IT, DevOps, and InfoSec experience |
+| `Military`     | Leadership & technical army service |
+| `WhatDrivesMe` | Core values & motivation |
+| `Contact`      | GitHub, Email, and LinkedIn links |
+
+---
+
+## 📸 Preview
+
+![Hero Section](./public/preview-hero.png)
+![About Section](./public/preview-about.png)
+
+---
+
+## 📦 Installation & Development
+
+```bash
+git clone https://github.com/diklastern/portfolio.git
+cd portfolio
+npm install
+npm run dev
