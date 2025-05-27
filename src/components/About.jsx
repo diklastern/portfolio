@@ -43,7 +43,7 @@ export default function About() {
             About Me
           </h2>
           <p className="text-lg font-semibold text-gray-300 leading-relaxed mb-10">
-            I'm Dikla, an Information Systems student specializing in Cybersecurity,
+            I'm an Information Systems student specializing in Cybersecurity,
             with hands-on experience in system administration and DevOps. CSPP-certified,
             with a strong military background as a C4I Officer, I'm skilled in managing
             critical systems and leading high-performing technical teams.
