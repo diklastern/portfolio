@@ -51,15 +51,15 @@ export default function Hero() {
           Passionate about infrastructure, automation, and cyber defense. Skilled in Linux, firewalls, incident response, and building secure systems.
         </p>
 
-        {/* Resume Button */}
+        {/* Resume Request Button */}
         <a
-          href="/CV_DiklaStern.pdf"
-          download
+          href="mailto:diklasternx@gmail.com?subject=Requesting Your Resume"
           className="mt-6 inline-flex items-center gap-2 bg-cyan-600 hover:bg-cyan-700 text-white font-semibold px-6 py-3 rounded-lg shadow-lg transition duration-300"
         >
           <Download className="w-4 h-4" />
-          Download Resume
+          Request Resume
         </a>
+
       </motion.div>
     </section>
   );
