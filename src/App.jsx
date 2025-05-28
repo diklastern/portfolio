@@ -43,7 +43,7 @@ function App() {
         className="bg-gray-950"
       >
         <About />
-        <WhatDrivesMe />
+        
       </motion.div>
 
       <motion.div
@@ -84,6 +84,16 @@ function App() {
         className="bg-gray-950"
       >
         <Certifications />
+      </motion.div>
+
+      <motion.div
+        initial={{ opacity: 0, y: 40 }}
+        whileInView={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.8 }}
+        viewport={{ once: true }}
+        className="bg-gray-900"
+      >
+        <WhatDrivesMe />
       </motion.div>
 
       <motion.div
