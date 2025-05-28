@@ -12,6 +12,7 @@ export default function Navbar() {
     { label: "Education", to: "education" },
     { label: "Experience", to: "experience" },
     { label: "Military", to: "military" },
+    { label: "Certifications", to: "certifications" },
     { label: "Contact", to: "contact" },
   ];
 

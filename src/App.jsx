@@ -11,6 +11,7 @@ import Contact from './components/Contact';
 import ScrollProgress from "./components/ScrollProgress";
 import Loader from "./components/Loader";
 import WhatDrivesMe from './components/WhatDrivesMe';
+import Certifications from './components/Certifications';
 
 function App() {
   const [isLoading, setIsLoading] = useState(true);
@@ -73,6 +74,16 @@ function App() {
         className="bg-gray-900"
       >
         <MilitaryExperience />
+      </motion.div>
+
+      <motion.div
+        initial={{ opacity: 0, y: 40 }}
+        whileInView={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.8 }}
+        viewport={{ once: true }}
+        className="bg-gray-950"
+      >
+        <Certifications />
       </motion.div>
 
       <motion.div
