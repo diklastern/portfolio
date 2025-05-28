@@ -7,7 +7,7 @@ Welcome to my personal portfolio – a modern, animated, and accessible single-p
 
 ## 🚀 Live Website
 
-🔗 [https://dikla-portfolio.netlify.app](https://dikla-portfolio.netlify.app)
+🔗 [https://diklastern.netlify.app](https://dikla-portfolio.netlify.app)
 
 ---
 
