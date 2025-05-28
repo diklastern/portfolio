@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { ServerCog, Code2, GitBranch, Settings2, CloudCog, TerminalSquare } from "lucide-react";
+import { ServerCog, Code2, Server, Globe, GitBranch, Settings2, CloudCog, TerminalSquare } from "lucide-react";
 
 export default function Experience() {
   const technologies = [
