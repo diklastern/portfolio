@@ -5,12 +5,15 @@ export default function Experience() {
   const technologies = [
     { label: "Python", icon: TerminalSquare },
     { label: "Django", icon: Code2 },
-    { label: "Git", icon: GitBranch },
     { label: "GitLab", icon: GitBranch },
     { label: "CI/CD", icon: Settings2 },
     { label: "Containers", icon: Settings2 },
     { label: "AWX", icon: CloudCog },
     { label: "Ansible", icon: CloudCog },
+    { label: "Linux", icon: Server },
+    { label: "Windows Server", icon: Server },
+    { label: "Networking", icon: Globe },
+    { label: "Shell Scripting", icon: Code2 },
   ];
 
   return (
