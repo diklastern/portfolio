@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 
 export default function WhatDrivesMe() {
   return (
-    <section className="py-24 px-6 bg-gradient-to-br from-gray-900 via-gray-950 to-black text-white">
+    <section id="whatdrivesme" className="py-24 px-6 bg-gradient-to-br from-gray-900 via-gray-950 to-black text-white">
       <div className="max-w-3xl mx-auto text-center">
         <motion.div
           initial={{ opacity: 0, y: 20 }}

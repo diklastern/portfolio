@@ -9,10 +9,11 @@ export default function Navbar() {
 
   const navItems = [
     { label: "About", to: "about" },
-    { label: "Education", to: "education" },
     { label: "Experience", to: "experience" },
+    { label: "Education", to: "education" },
     { label: "Military", to: "military" },
     { label: "Certifications", to: "certifications" },
+    { label: "What Drives Me", to: "whatdrivesme" },
     { label: "Contact", to: "contact" },
   ];
 
