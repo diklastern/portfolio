@@ -25,10 +25,10 @@ Welcome to my personal portfolio – a modern, animated, and accessible single-p
 
 | Section         | Description |
 |----------------|-------------|
-| `Hero`         | Intro, type animation & resume download |
+| `Hero`         | Intro, type animation & resume request for download |
 | `About`        | Skills, values, and personal touch |
 | `Education`    | Academic journey and certifications |
-| `Experience`   | IT, DevOps, and InfoSec experience |
+| `Experience`   | IT and DevOps experience |
 | `Military`     | Leadership & technical army service |
 | `WhatDrivesMe` | Core values & motivation |
 | `Contact`      | GitHub, Email, and LinkedIn links |
